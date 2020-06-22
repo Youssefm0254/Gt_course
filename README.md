@@ -1,6 +1,6 @@
 # Gt_course
 For pharmacy project
-project for pharmacy
+good luck
 
 
 # project notes
